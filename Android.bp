@@ -9,3 +9,9 @@ kernel_headers {
     vendor_available: true,
     recovery_available: true,
 }
+
+kernel_headers {
+    name: "qti_synx_kernel_headers",
+    vendor_available: true,
+    recovery_available: true,
+}
