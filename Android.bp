@@ -27,3 +27,9 @@ kernel_headers {
     vendor_available: true,
     recovery_available: true,
 }
+
+kernel_headers {
+    name: "smmu_proxy_uapi_header",
+    vendor_available: true,
+    recovery_available: true,
+}
